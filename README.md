@@ -1,5 +1,5 @@
 # Hello-World
-First things first
+First things first... 
 I am the sort of person who makes bad jokes in naming variables because it is amusing to me later on.
 My main purpose in using Github is to have a place that I can put my code for others to see when I'm trying to get hired.
 I used to be a lawyer.
